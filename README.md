@@ -7,7 +7,7 @@ This project aims to analyze bicycle usage patterns based on bicycle rental data
 2. Do more people rent bicycles in summer or winter?
 3. What are the busiest times for bicycle rentals?
 
-## Setup Environment - Anaconda
+## Setup Environment 
 ### Anaconda
 ```
 conda create --name main-ds python=3.12
