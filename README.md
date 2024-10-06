@@ -9,19 +9,23 @@ This project aims to analyze bicycle usage patterns based on bicycle rental data
 
 ## Setup Environment - Anaconda
 ### Anaconda
+```
 conda create --name main-ds python=3.12
 conda activate main-ds
+```
 ### Shell/Terminal
+```
 pandas==2.2.3
 numpy==2.1.1
 matplotlib==3.9.2
 seaborn==0.13.2
 streamlit==1.39.0
+```
 
 ## Data Source
-[Bike Sharing Dataset](https://drive.google.com/file/d/1RaBmV6Q6FYWU4HWZs80Suqd7KQC34diQ/view))
+[Bike Sharing Dataset](https://drive.google.com/file/d/1RaBmV6Q6FYWU4HWZs80Suqd7KQC34diQ/view)
 
 ## Run Streamlit App
+```
 streamlit run dashboard.py
-
-```bash
+```
